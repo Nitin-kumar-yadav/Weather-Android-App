@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "expo-font": "^13.0.3",
     "react": "18.3.1",
     "react-native": "0.77.0",
+    "react-native-svg": "^15.11.1",
     "react-native-vector-icons": "^10.2.0"
   },
   "devDependencies": {
